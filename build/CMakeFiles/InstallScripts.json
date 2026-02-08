@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jasper/Programming/zyfront/build/cmake_install.cmake",
+		"/home/jasper/Programming/zyfront/build/third_party/Zydis/cmake_install.cmake",
+		"/home/jasper/Programming/zyfront/build/third_party/Zydis/zycore/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

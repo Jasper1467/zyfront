@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_Zycore_FILE /home/jasper/Programming/zyfront/build/third_party/Zydis/zycore/libZycore.a)
+set(__QT_DEPLOY_TARGET_Zycore_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_Zydis_FILE /home/jasper/Programming/zyfront/build/third_party/Zydis/libZydis.a)
+set(__QT_DEPLOY_TARGET_Zydis_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_zyfront_FILE /home/jasper/Programming/zyfront/build/zyfront)
+set(__QT_DEPLOY_TARGET_zyfront_TYPE EXECUTABLE)
